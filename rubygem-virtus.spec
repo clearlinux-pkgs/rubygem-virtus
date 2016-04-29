@@ -4,7 +4,7 @@
 #
 Name     : rubygem-virtus
 Version  : 1.0.5
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/virtus-1.0.5.gem
 Source0  : https://rubygems.org/downloads/virtus-1.0.5.gem
 Summary  : No detailed summary available
